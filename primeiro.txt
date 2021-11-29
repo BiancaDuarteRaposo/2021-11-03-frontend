@@ -13,3 +13,10 @@ Comandos
 
 criando uma branch
 git checkout -b <nome p a branch>
+
+sair de uma branch
+git checkout <nome main/branch>
+
+trocar o nome da branch
+git branch -m "novo-nome"
+
