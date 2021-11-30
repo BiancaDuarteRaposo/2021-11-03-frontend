@@ -22,8 +22,6 @@ trocar o nome da branch
 git branch -m "novo-nome"
 
 Add linha pelo github web
-Add linha pelo github web
-Add linha pelo github web
-Add linha pelo github web
+
 
 
