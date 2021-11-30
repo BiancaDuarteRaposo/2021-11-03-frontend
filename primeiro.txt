@@ -24,4 +24,5 @@ git branch -m "novo-nome"
 Add linha pelo github web
 
 
+Criando bug sera? será q pode dar pull sem add as co pc antes?
 
