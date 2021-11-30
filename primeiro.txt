@@ -10,6 +10,7 @@ Comandos
 -git add * ==> versionando de todos os  arquivo
 -git commit  -m "passar a mensagem" ==> joga as alterações do arquivo para o repositorio local
 -git push ==> envia os arquivos alterados no repositorio local para o repositorio remoto.
+-git pull Atualiza partes diferentes 
 
 criando uma branch
 git checkout -b <nome p a branch>
@@ -19,4 +20,6 @@ git checkout <nome main/branch>
 
 trocar o nome da branch
 git branch -m "novo-nome"
+
+
 
