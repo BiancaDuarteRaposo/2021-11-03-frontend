@@ -13,3 +13,4 @@ Comandos
 
 criando uma branch
 git checkout -b <nome p a branch>
+Add linha pelo github web
